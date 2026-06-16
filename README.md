@@ -33,4 +33,4 @@ A Java-based Stock Trading Platform Simulator developed as part of the CodeAlpha
 3. Use the menu options to perform stock trading operations.
 
 ## Author
-Ayush Singh Kasera
+Ayush Singh 
